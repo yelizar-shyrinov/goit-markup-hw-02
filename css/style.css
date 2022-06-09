@@ -1,0 +1,13 @@
+* {
+   padding: 0; 
+   margin: 0;
+}
+.content-wrapper {
+    width: 1240px;
+    margin: 0 auto;
+    background: yellow;   
+}
+.header {
+    height: 80px;
+   background-color: aqua; 
+}
